@@ -7,7 +7,7 @@ export const initSocket = (server: HttpServer) => {
       origin: [
         "http://localhost:5173",
         "http://10.222.245.188:5173",
-        "https://watch-party-frontend-ac22ddcg5-yabetsg.vercel.app",
+        "https://main.d3bv5epy3w9rdw.amplifyapp.com",
       ],
       methods: ["GET", "POST", "PUT"],
     },

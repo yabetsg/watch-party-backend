@@ -20,7 +20,7 @@ app.use(cookieParser());
 const corsOptions = {
   origin: [
     "http://localhost:5173",
-    "https://watch-party-frontend-ac22ddcg5-yabetsg.vercel.app",
+    "https://main.d3bv5epy3w9rdw.amplifyapp.com",
   ],
   credentials: true,
   optionSuccessStatus: 200,
