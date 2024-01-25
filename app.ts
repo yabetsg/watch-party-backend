@@ -20,7 +20,7 @@ app.use(cookieParser());
 const corsOptions = {
   origin: [
     "http://localhost:5173",
-    "https://main.d3bv5epy3w9rdw.amplifyapp.com",
+    "https://main.d2zyf6xwl24d8i.amplifyapp.com",
   ],
   credentials: true,
   optionSuccessStatus: 200,
